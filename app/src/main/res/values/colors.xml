@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sam_black">#FF05070D</color>
+    <color name="sam_cyan">#FF2EE6FF</color>
+    <color name="sam_blue">#FF4B7CFF</color>
+    <color name="sam_purple">#FF8B6CFF</color>
+    <color name="ic_launcher_background">#05070D</color>
+</resources>

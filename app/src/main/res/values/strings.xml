@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SAM</string>
+    <string name="app_full_name">S.A.M.</string>
+    <string name="app_expansion">Smart Autonomous Machine</string>
+    <string name="accessibility_label">SAM Accessibility</string>
+    <string name="accessibility_description">Allows SAM to perform user-requested on-screen actions such as tap, scroll, type, and navigate. SAM does not bypass lock screens, payments, or other security protections.</string>
+    <string name="notification_listener_label">SAM Notification Access</string>
+    <string name="engine_notification_title">SAM Engine is on</string>
+    <string name="engine_notification_text">Microphone is active for the wake word. Tap to open SAM.</string>
+    <string name="overlay_notification_title">SAM overlay active</string>
+    <string name="overlay_notification_text">SAM can appear above other apps while the engine is on.</string>
+    <string name="channel_engine">SAM Engine</string>
+    <string name="channel_overlay">SAM Overlay</string>
+    <string name="channel_alerts">SAM Alerts</string>
+</resources>

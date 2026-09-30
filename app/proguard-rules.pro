@@ -1,0 +1,5 @@
+-keep class com.shlok.sam.** { *; }
+-dontwarn org.bouncycastle.**
+-dontwarn org.spongycastle.**
+-dontwarn org.conscrypt.**
+-dontwarn edu.umd.cs.findbugs.annotations.**

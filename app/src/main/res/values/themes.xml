@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SAM" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/sam_black</item>
+        <item name="android:navigationBarColor">@color/sam_black</item>
+        <item name="android:windowBackground">@color/sam_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.SAM.Splash" parent="Theme.SAM">
+        <item name="android:windowBackground">@color/sam_black</item>
+    </style>
+    <style name="Theme.SAM.Overlay" parent="Theme.SAM">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
