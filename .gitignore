@@ -22,3 +22,4 @@ app/release/
 app/debug/
 keys.properties
 secrets.properties
+build_out.txt
